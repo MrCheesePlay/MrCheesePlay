@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a Full Stack Developer From India</p>
+<p align="left">I am a Full Stack Developer From India.</p>
 
 ###
 
